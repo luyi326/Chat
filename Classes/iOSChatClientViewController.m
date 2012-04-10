@@ -32,7 +32,7 @@
     [super dealloc];
 }
 
-// Get message for the viewcontroller la
+// Get message for the viewcontroller
 - (void)getNewMessages {
     functioncalled=1;
     float latget, lngget;

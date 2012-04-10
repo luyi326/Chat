@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 #import <CoreLocation/CoreLocation.h>
 
-@interface iOSChatClientViewController : UIViewController <UITableViewDataSource,UITableViewDelegate>	{
+@interface iOSChatClientViewController : UIViewController <UITableViewDataSource,UITableViewDelegate, NSXMLParserDelegate>	{
 	IBOutlet UITextField *messageText;
 	IBOutlet UIButton *sendButton;
     IBOutlet UIButton *refreshButton;

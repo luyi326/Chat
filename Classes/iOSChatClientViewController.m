@@ -245,6 +245,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    [latitudeTextField setDelegate:self];
+    [longitudeTextField setDelegate:self];
     
     NSString *lat;
     //GPS

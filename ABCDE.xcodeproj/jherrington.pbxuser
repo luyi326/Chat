@@ -1,0 +1,241 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* iOSChatClient */ = {
+		activeExec = 0;
+		executables = (
+			E5F6E44A12387D91004EBE5E /* iOSChatClient */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* iOSChatClientViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {904, 595}}";
+			sepNavSelRange = "{0, 683}";
+			sepNavVisRange = "{0, 683}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* iOSChatClientViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {904, 2847}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{507, 1059}";
+			sepNavWindowFrame = "{{61, 205}, {1283, 776}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E5F6E44A12387D91004EBE5E /* iOSChatClient */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iOSChatClient */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iOSChatClient */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = E5F6E46912387DA1004EBE5E /* Code sense */;
+		executables = (
+			E5F6E44A12387D91004EBE5E /* iOSChatClient */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					726,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					702,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 306201394;
+			PBXWorkspaceStateSaveDate = 306201394;
+		};
+		perUserProjectItems = {
+			E556710C12404FAB0061BEF0 /* PBXTextBookmark */ = E556710C12404FAB0061BEF0 /* PBXTextBookmark */;
+			E561CC2F1238859400960225 /* PlistBookmark */ = E561CC2F1238859400960225 /* PlistBookmark */;
+			E561CD2E123898D800960225 /* PBXTextBookmark */ = E561CD2E123898D800960225 /* PBXTextBookmark */;
+			E5D13F7612403A660008D789 /* PBXTextBookmark */ = E5D13F7612403A660008D789 /* PBXTextBookmark */;
+			E5F6E49C123881C9004EBE5E /* PBXTextBookmark */ = E5F6E49C123881C9004EBE5E /* PBXTextBookmark */;
+		};
+		sourceControlManager = E5F6E46812387DA1004EBE5E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* iOSChatClient_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {904, 523}}";
+			sepNavSelRange = "{195, 0}";
+			sepNavVisRange = "{0, 195}";
+		};
+	};
+	8D1107310486CEB800E47090 /* iOSChatClient-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 465}, {750, 558}}";
+		};
+	};
+	E556710C12404FAB0061BEF0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iOSChatClientViewController.m */;
+		name = "iOSChatClientViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1059;
+		vrLoc = 507;
+	};
+	E561CC2F1238859400960225 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = E561CC301238859400960225 /* Root.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/jherrington/Documents/Articles/iOSChatClient/Settings.bundle/Root.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	E561CC301238859400960225 /* Root.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.xml;
+		name = Root.plist;
+		path = /Users/jherrington/Documents/Articles/iOSChatClient/Settings.bundle/Root.plist;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavWindowFrame = "{{35, 497}, {619, 496}}";
+		};
+	};
+	E561CD2E123898D800960225 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iOSChatClientViewController.h */;
+		name = "iOSChatClientViewController.h: 11";
+		rLen = 0;
+		rLoc = 125;
+		rType = 0;
+		vrLen = 845;
+		vrLoc = 0;
+	};
+	E5D13F7612403A660008D789 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iOSChatClientViewController.m */;
+		name = "iOSChatClientViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1059;
+		vrLoc = 507;
+	};
+	E5F6E44A12387D91004EBE5E /* iOSChatClient */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iOSChatClient;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	E5F6E46812387DA1004EBE5E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E5F6E46912387DA1004EBE5E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E5F6E49C123881C9004EBE5E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* iOSChatClient_Prefix.pch */;
+		name = "iOSChatClient_Prefix.pch: 9";
+		rLen = 0;
+		rLoc = 195;
+		rType = 0;
+		vrLen = 195;
+		vrLoc = 0;
+	};
+}

@@ -16,6 +16,15 @@
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		28D7ACF80DDB3853001CB0EB /* iOSChatClientViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* iOSChatClientViewController.m */; };
 		54DFDA4815199E6000170772 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54DFDA4715199E6000170772 /* CoreLocation.framework */; };
+		54F0FBBC15367550001C09EF /* bubble_bottom_left.png in Resources */ = {isa = PBXBuildFile; fileRef = 54F0FBB315367550001C09EF /* bubble_bottom_left.png */; };
+		54F0FBBD15367550001C09EF /* bubble_bottom_middle.png in Resources */ = {isa = PBXBuildFile; fileRef = 54F0FBB415367550001C09EF /* bubble_bottom_middle.png */; };
+		54F0FBBE15367550001C09EF /* bubble_bottom_right.png in Resources */ = {isa = PBXBuildFile; fileRef = 54F0FBB515367550001C09EF /* bubble_bottom_right.png */; };
+		54F0FBBF15367550001C09EF /* bubble_middle_left.png in Resources */ = {isa = PBXBuildFile; fileRef = 54F0FBB615367550001C09EF /* bubble_middle_left.png */; };
+		54F0FBC015367550001C09EF /* bubble_middle_middle.png in Resources */ = {isa = PBXBuildFile; fileRef = 54F0FBB715367550001C09EF /* bubble_middle_middle.png */; };
+		54F0FBC115367550001C09EF /* bubble_middle_right.png in Resources */ = {isa = PBXBuildFile; fileRef = 54F0FBB815367550001C09EF /* bubble_middle_right.png */; };
+		54F0FBC215367550001C09EF /* bubble_top_left.png in Resources */ = {isa = PBXBuildFile; fileRef = 54F0FBB915367550001C09EF /* bubble_top_left.png */; };
+		54F0FBC315367550001C09EF /* bubble_top_middle.png in Resources */ = {isa = PBXBuildFile; fileRef = 54F0FBBA15367550001C09EF /* bubble_top_middle.png */; };
+		54F0FBC415367550001C09EF /* bubble_top_right.png in Resources */ = {isa = PBXBuildFile; fileRef = 54F0FBBB15367550001C09EF /* bubble_top_right.png */; };
 		E561CC1C123883DC00960225 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = E561CC1B123883DC00960225 /* Settings.bundle */; };
 		E561CCF61238957600960225 /* ChatListItem.xib in Resources */ = {isa = PBXBuildFile; fileRef = E561CCF51238957600960225 /* ChatListItem.xib */; };
 /* End PBXBuildFile section */
@@ -34,6 +43,15 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* ABCDE_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ABCDE_Prefix.pch; sourceTree = "<group>"; };
 		54DFDA4715199E6000170772 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		54F0FBB315367550001C09EF /* bubble_bottom_left.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bubble_bottom_left.png; sourceTree = "<group>"; };
+		54F0FBB415367550001C09EF /* bubble_bottom_middle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bubble_bottom_middle.png; sourceTree = "<group>"; };
+		54F0FBB515367550001C09EF /* bubble_bottom_right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bubble_bottom_right.png; sourceTree = "<group>"; };
+		54F0FBB615367550001C09EF /* bubble_middle_left.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bubble_middle_left.png; sourceTree = "<group>"; };
+		54F0FBB715367550001C09EF /* bubble_middle_middle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bubble_middle_middle.png; sourceTree = "<group>"; };
+		54F0FBB815367550001C09EF /* bubble_middle_right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bubble_middle_right.png; sourceTree = "<group>"; };
+		54F0FBB915367550001C09EF /* bubble_top_left.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bubble_top_left.png; sourceTree = "<group>"; };
+		54F0FBBA15367550001C09EF /* bubble_top_middle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bubble_top_middle.png; sourceTree = "<group>"; };
+		54F0FBBB15367550001C09EF /* bubble_top_right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bubble_top_right.png; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* ABCDE-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "ABCDE-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 		E561CC1B123883DC00960225 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 		E561CCF51238957600960225 /* ChatListItem.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ChatListItem.xib; sourceTree = "<group>"; };
@@ -97,6 +115,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				54F0FBB115367415001C09EF /* Icons */,
 				2899E5210DE3E06400AC0155 /* iOSChatClientViewController.xib */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* ABCDE-Info.plist */,
@@ -115,6 +134,22 @@
 				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		54F0FBB115367415001C09EF /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				54F0FBB315367550001C09EF /* bubble_bottom_left.png */,
+				54F0FBB415367550001C09EF /* bubble_bottom_middle.png */,
+				54F0FBB515367550001C09EF /* bubble_bottom_right.png */,
+				54F0FBB615367550001C09EF /* bubble_middle_left.png */,
+				54F0FBB715367550001C09EF /* bubble_middle_middle.png */,
+				54F0FBB815367550001C09EF /* bubble_middle_right.png */,
+				54F0FBB915367550001C09EF /* bubble_top_left.png */,
+				54F0FBBA15367550001C09EF /* bubble_top_middle.png */,
+				54F0FBBB15367550001C09EF /* bubble_top_right.png */,
+			);
+			name = Icons;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -170,6 +205,15 @@
 				2899E5220DE3E06400AC0155 /* iOSChatClientViewController.xib in Resources */,
 				E561CC1C123883DC00960225 /* Settings.bundle in Resources */,
 				E561CCF61238957600960225 /* ChatListItem.xib in Resources */,
+				54F0FBBC15367550001C09EF /* bubble_bottom_left.png in Resources */,
+				54F0FBBD15367550001C09EF /* bubble_bottom_middle.png in Resources */,
+				54F0FBBE15367550001C09EF /* bubble_bottom_right.png in Resources */,
+				54F0FBBF15367550001C09EF /* bubble_middle_left.png in Resources */,
+				54F0FBC015367550001C09EF /* bubble_middle_middle.png in Resources */,
+				54F0FBC115367550001C09EF /* bubble_middle_right.png in Resources */,
+				54F0FBC215367550001C09EF /* bubble_top_left.png in Resources */,
+				54F0FBC315367550001C09EF /* bubble_top_middle.png in Resources */,
+				54F0FBC415367550001C09EF /* bubble_top_right.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
